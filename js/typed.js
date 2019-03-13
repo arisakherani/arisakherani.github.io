@@ -400,7 +400,7 @@
 	};
 
 	$.fn.typed.defaults = {
-		strings: ["These are the default values...", "You know what you should do?", "Use your own!", "Have a great day!"],
+		strings: ["Arisa Kherani", "a TKS Innovator", "Regenerative Medicine Researcher"],
 		stringsElement: null,
 		// typing speed
 		typeSpeed: 0,

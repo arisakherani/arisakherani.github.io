@@ -454,7 +454,7 @@ input:-webkit-autofill {
 /*------------------------ 2 Home ------------------------*/		
 
 .home{
-    background:url(../images/wattpad.action.jpg) bottom center;
+    background:url(../images/home.jpg) bottom center;
     width: 100%;
     display: table;
 }

@@ -130,7 +130,7 @@ $('.responsive').on('click', function (e) {
     
     // HOME TYPED JS
       $(".element").typed({
-        strings: ["Arisa Kherani", "15 year old innovator"],
+        strings: ["Arisa Kherani", "a 15 year old innovator"],
         typeSpeed: 10,
         loop:true,
         backDelay: 2000
